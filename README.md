@@ -1,56 +1,26 @@
-#### A complete guide to open source
-
-It has been more than 500 days for me in Open Source. 
-
-I've answered 35+ discussions on GitHub (actively participated in 300+), successfully merged over 200 PRs, earned 500+ Stars, and contributed to more than 40 repositories. I know enough to guide people.
-
-Don't worry.
-It's okay if you don't know the terms; we will cover everything.
-
-There are plenty of other blogs available, but they may not cover everything, which is the main aim of this post.
-
-I learned with the flow without any course or resources.
-So, it took me a very long time to understand everything.
-But you don't need to.
-
-Each person is at a different stage, so I've created a Table of Contents that outlines what each section will cover.
-
-If you know those sections or are perfectly confident, skip them to the next one. 
-
-Note:
-Read and skip the sections in order. Previous ones are essential for upcoming sections, and it is structured accordingly.
-I recommend reading it all!
-
-I'm going to pour my every experience into this post.
-Let's get started. I hope you will enjoy it!
-
----
+# A Complete Guide to Open Source 🌐
 
 ## Table of Contents
+1. Concept of Open Source 🤝
+2. Why Contribute to Open Source? 🚀
+3. Understanding Contribution 🧩
+4. Roles in Open Source Projects 🛠️
+5. Pre-requisites (Git + GitHub + Markdown) 📚
+6. Conventional Commits 📝
+7. Basic Flow of Open Source Contribution 🔄
+8. Standard Guidelines for Open Source Projects 📋
+9. Finding Good Open Source Projects 🔍
+10. Ideal Ways to Contribute to Open Source 💡
+11. Addressing Code Request Changes in Pull Requests 🛠️
+12. Legal Side of Open Source ⚖️
+13. Extra Resources 📚
 
-1. Concept of Open Source.
-2. Why should you contribute to Open Source?
-3. What it means to contribute.
-4. What are the roles in a typical Open Source project?
-5. Pre-requisites (Git + GitHub + Markdown).
-6. Conventional Commits.
-7. Basic Flow of Open Source Contribution.
-8. Standard Guidelines of Good Open Source project.
-9. How to Find good Open Source Projects.
-10. Ideal ways to contribute to Open Source.
-11. How to suggest/address code request changes in Pull Request.
-12. Legal Side of Open Source.
-13. Extra Resources.
+## 1. Concept of Open Source 🤝
+Imagine you have a cool project, like a super fun game. Right now, only you can play it because you have the secret rules (code). Now, what if you tell your friends the rules, and they start adding cool new things to your game? That's like Open Source! 🎮
 
---- 
+Open Source means sharing the rules (code) of your project with everyone. Just like when you share your game rules, others can see, learn, and even add new features. For example, imagine if Google shared how they make Google Maps. People can help make it better by fixing problems and adding cool stuff. 🗺️
 
-## 1. Concept of Open Source.
-
-Imagine you have a cool project, like a super fun game. Right now, only you can play it because you have the secret rules (code). Now, what if you tell your friends the rules, and they start adding cool new things to your game? That's like Open Source!
-
-Open Source means sharing the rules (code) of your project with everyone. Just like when you share your game rules, others can see, learn, and even add new features. For example, imagine if Google shared how they make Google Maps. People can help make it better by fixing problems and adding cool stuff.
-
-It's like a big team helping each other for free! And if you help, too, it's like getting a special badge that says, "I helped make this cool thing!". 
+It's like a big team helping each other for free! And if you help, too, it's like getting a special badge that says, "I helped make this cool thing!".
 
 Imagine if you could tell everyone, "I helped make Google Maps!" That's why Open Source is damn awesome.
 
@@ -65,61 +35,47 @@ I hope you get a little idea of what Open Source is.
 
 ### Roadmap to Open Source
 
-There is no such roadmap, even if you ask experienced people in open source. There can be a general flow, but I assure you everyone has their own way of getting involved in open source.
-
-When I started, I just wanted to learn about GitHub, and I wasn't even aware of open source. So, if you're new, don't worry.
-Just explore and have fun!
-
---- 
-
-## 2. Why should you contribute to Open Source?
-
-> Open Source is more than merging a PR.
-
-In a world where we are more connected than ever, being a part of an open-source community can be the key to unlocking new opportunities and achieving personal growth.
-
-You **Code**. **Collaborate**. **Network**.
-
-YOU don't need a job.
-YOU don't need experience.
-You don't need to be a tech guy.
-
-YOU need nothing to get started.
-And the open source community is very supportive.
-
-What will you learn?
-You will gain practical knowledge.
-You will gain modern development practices.
-You will gain credibility and meet new people.
-
-Most important.
-You will always be welcome.
-And YOU interact with experienced people all the time. 🔥
-
-There are plenty of reasons why you should contribute to an open source:
-
-- To learn, teach, and gain experience in almost any skill you can imagine.
-
-- Everything being public adds credibility to your profile.
-
-- To build up your reputation and help grow your career.
-
-- To find a mentor if you need one or build a strong network.
-
-- It provides personal satisfaction, and you never know who is watching – maybe your next employer or partner.
-
-Tip: Pick good organizations rather than individual repositories for long-term benefit.
+There is no one-size-fits-all roadmap in open source. Each individual has their unique journey and approach to getting involved. When I started, I stumbled into open source while exploring GitHub, unaware of its vast potential. So, if you're new, embrace the journey and enjoy the exploration!
 
 ---
 
-## 3. What it means to contribute.
+## 2. Why Should You Contribute to Open Source?
 
-If you're new to open source, the process can feel intimidating.
+> Open Source is more than merging a PR.
 
-People are confused about this.
-How do you find the right project? 
-What if you don’t know how to code? 
-What if something goes wrong?
+In today's interconnected world, participating in an open-source community offers numerous benefits and opportunities for personal growth.
+
+You **Code**. **Collaborate**. **Network**.
+
+You don't need a job, experience, or technical expertise to get started. The open-source community is incredibly inclusive and supportive.
+
+What will you learn?
+- Practical knowledge and modern development practices.
+- Credibility and the chance to connect with like-minded individuals.
+
+Most importantly,
+You will always be welcome.
+And YOU interact with experienced people all the time. 🔥
+
+There are plenty of reasons to contribute to open source:
+- Learn, teach, and gain experience in various skills.
+- Enhance your profile's credibility by showcasing your work.
+- Boost your reputation and advance your career.
+- Find mentors or expand your professional network.
+- Experience personal fulfillment and potentially catch the eye of future employers or collaborators.
+
+Tip: Focus on reputable organizations for long-term benefits over individual repositories.
+
+---
+
+## 3. What It Means to Contribute
+
+For newcomers, the prospect of contributing to open source can be daunting.
+
+You may wonder:
+- How do I find the right project?
+- What if I lack coding skills?
+- What if something goes wrong?
 
 &nbsp;
 
