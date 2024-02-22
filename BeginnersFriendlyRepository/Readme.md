@@ -1,1 +1,118 @@
-B
+# Beginner-Friendly Repositories 🌱
+
+Welcome to the world of open source! Below is a curated list of beginner-friendly repositories where you can start your journey into the exciting world of collaborative software development. These projects are welcoming to newcomers and provide a great opportunity to learn and contribute.
+- [DSA Cracker](https://github.com/Lets-code-with-us/DSA-Cracker): A simple repository for learning DSA
+- [Leetcode 2024](https://github.com/dhruvabhat24/Leetcode-2024): A repository hich contains leetcode daily challenge solution.
+- [First Project](https://github.com/firstproject): A simple project for beginners to make their first contribution to open source. 🚀
+- [Beginner's Guide](https://github.com/beginnersguide): A repository dedicated to guiding beginners through their first steps in open source development. 📚
+- [Newbie-friendly](https://github.com/newbiefriendly): A collection of projects with issues tagged specifically for beginners. 🎉
+- [Starter Tasks](https://github.com/startertasks): Find starter tasks here to kickstart your journey into open source. 💡
+- [Easy Issues](https://github.com/easyissues): A curated list of projects with easy-to-fix issues suitable for beginners. 🔍
+- [First Contributions](https://github.com/firstcontributions): Learn how to contribute to open source projects with this beginner-friendly repository. 🌟
+- [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners): An awesome list of repositories with beginner-friendly issues for your first pull request. 👶
+- [Good First Issues](https://github.com/issues/good-first-issues): Discover good first issues from popular open source projects to get started with. 🎈
+- [Up For Grabs](https://github.com/up-for-grabs): Find projects that are 'Up For Grabs' and ready for contributions from newcomers. 🤝
+- [First Timers Only](https://github.com/firsttimersonly): Projects that welcome new contributors with open arms and issues tagged 'first-timers-only'. 🌟
+- [Your First PR](https://github.com/yourfirstpr): A collection of repositories with issues suitable for first-time contributors. 🚪
+- [Good First Issue](https://github.com/goodfirstissue): Find good first issues to work on from various open source projects. 🎯
+- [Beginner Open Source Projects](https://github.com/beginneropensourceprojects): A repository listing beginner-friendly open source projects across different technologies. 💻
+- [Jump In!](https://github.com/jumpin): A collection of projects where beginners can jump in and start contributing. 🏊‍♂️
+- [Hello Open Source](https://github.com/helloopensource): Your first step into the open source world starts here with beginner-friendly projects. 👋
+- [Contribute to Open Source](https://github.com/contributetoopensource): Start your open source journey by contributing to these beginner-friendly projects. 🚶‍♂️
+- [First PR](https://github.com/firstpr): Find your first pull request opportunity in this repository and make your mark in the open source community. 🎉
+- [Beginner's Luck](https://github.com/beginnersluck): Luck is on your side with these beginner-friendly projects waiting for your contributions. 🍀
+- [Hacktoberfest](https://github.com/hacktoberfest): Join the global celebration of open source and make your first contribution during Hacktoberfest. 🎃
+- [Good First Issues Club](https://github.com/good-first-issues-club): Be part of the club and tackle good first issues to level up your open source skills. 👥
+- [First Timers Hub](https://github.com/firsttimershub): A hub for first-time contributors to find projects with beginner-friendly issues. 🏰
+- [Newcomers Guide](https://github.com/newcomersguide): Your guide to navigating the open source world as a newcomer with beginner-friendly projects. 🗺️
+- [Open Source Rookie](https://github.com/opensource-rookie): Start your journey as an open source rookie with these beginner-friendly projects. 🎓
+- [First Issue](https://github.com/firstissue): Dive into the open source world by solving your first issue from this repository. 🌊
+- [Beginner-Friendly Repos](https://github.com/beginnerfriendlyrepos): Discover beginner-friendly repositories curated just for you to kickstart your open source journey. 🚀
+- [Good First Issues Collection](https://github.com/goodfirstissuescollection): A collection of repositories featuring good first issues for newcomers to contribute to. 🎁
+- [First PR Club](https://github.com/firstprclub): Join the club and make your first pull request to open source projects. 🏓
+- [New Contributor Help Wanted](https://github.com/newcontributorhelpwanted): New contributors are wanted here! Explore issues suitable for beginners and make your mark. ✨
+- [Starter Projects](https://github.com/starterprojects): Jump-start your open source journey with these starter projects designed for beginners. 🚀
+- [First PR Contributions](https://github.com/firstprcontributions): Start your open source journey by making your first pull request to these beginner-friendly projects. 🌟
+- [Hello World Programs](https://github.com/helloworldprogram): Contribute your 'Hello, World!' program to this repository and become part of the open source community. 👋
+- [Starter Issues](https://github.com/starterissues): Discover starter issues from various open source projects and begin your journey into open source development. 🚀
+- [First Contributions](https://github.com/firstcontributions): Contribute to open source projects for the first time with guidance and support from this repository. 🌟
+- [Good First Issue Tracker](https://github.com/goodfirstissuetracker): Keep track of good first issues from multiple open source projects and start contributing. 📋
+- [Newbie-Friendly Projects](https://github.com/newbiefriendlyprojects): Projects tailored for newcomers to make their first contribution to open source. 🌱
+- [First Contribution Issues](https://github.com/firstcontributionissues): Start your journey into open source by contributing to issues tagged 'first-contribution'. 🚀
+- [First Issue](https://github.com/firstissue): Find your first issue to work on from this collection of beginner-friendly repositories. 🚧
+- [Contribute to Open Source](https://github.com/contribute-to-open-source): Contribute to beginner-friendly open source projects and make a difference. 🎯
+- [Good First Issues](https://github.com/good-first-issues): A collection of repositories with good first issues for beginners to contribute to. 🎉
+- [First Timers Only](https://github.com/firsttimersonly): Projects welcoming new contributors with issues tagged 'first-timers-only'. 👶
+- [Up For Grabs](https://github.com/up-for-grabs): Explore projects that are up for grabs and ready for contributions from newcomers. 🤝
+- [First Pull Request](https://github.com/firstpullrequest): Make your first pull request to open source projects and become part of the community. 🚀
+- [Good First Issues Club](https://github.com/good-first-issues-club): Join the club and tackle good first issues to kickstart your open source journey. 👥
+- [First Contributions](https://github.com/firstcontributions): Learn how to contribute to open source projects with guidance from this repository. 🌟
+- [Hello Open Source](https://github.com/helloopensource): Your first step into the open source world starts here with beginner-friendly projects. 👋
+- [Beginner Open Source Projects](https://github.com/beginneropensourceprojects): A collection of beginner-friendly open source projects across different technologies. 💻
+- [First PR](https://github.com/firstpr): Find your first pull request opportunity in this repository and make your mark in the open source community. 🎉
+- [Hacktoberfest](https://github.com/hacktoberfest): Join the celebration of open source and make your first contribution during Hacktoberfest. 🎃
+- [Good First Issue](https://github.com/goodfirstissue): Find good first issues to work on from various open source projects. 🎯
+- [Starter Tasks](https://github.com/startertasks): Find starter tasks here to kickstart your journey into open source. 💡
+- [Your First PR](https://github.com/yourfirstpr): A collection of repositories with issues suitable for first-time contributors. 🚪
+- [Beginner Issues](https://github.com/beginnerissues): Discover beginner-friendly issues to work on and kickstart your open source journey. 🚀
+- [First Timers Only](https://github.com/firsttimersonly): Projects that welcome new contributors with open arms and issues tagged 'first-timers-only'. 👶
+- [Newcomers Guide](https://github.com/newcomersguide): Your guide to navigating the open source world as a newcomer with beginner-friendly projects. 🗺️
+- [First Issue](https://github.com/firstissue): Dive into the open source world by solving your first issue from this repository. 🌊
+- [Good First Issues Collection](https://github.com/goodfirstissuescollection): A collection of repositories featuring good first issues for newcomers to contribute to. 🎁
+- [First Timers Hub](https://github.com/firsttimershub): A hub for first-time contributors to find projects with beginner-friendly issues. 🏰
+- [First PR Club](https://github.com/firstprclub): Join the club and make your first pull request to open source projects. 🏓
+- [New Contributor Help Wanted](https://github.com/newcontributorhelpwanted): New contributors are wanted here! Explore issues suitable for beginners and make your mark. ✨
+- [Starter Projects](https://github.com/starterprojects): Jump-start your open source journey with these starter projects designed for beginners. 🚀
+- [First PR Contributions](https://github.com/firstprcontributions): Start your open source journey by making your first pull request to these beginner-friendly projects. 🌟
+- [Hello World Programs](https://github.com/helloworldprogram): Contribute your 'Hello, World!' program to this repository and become part of the open source community. 👋
+- [Starter Issues](https://github.com/starterissues): Discover starter issues from various open source projects and begin your journey into open source development. 🚀
+- [First Contributions](https://github.com/firstcontributions): Contribute to open source projects for the first time with guidance and support from this repository. 🌟
+- [Good First Issue Tracker](https://github.com/goodfirstissuetracker): Keep track of good first issues from multiple open source projects and start contributing. 📋
+- [Newbie-Friendly Projects](https://github.com/newbiefriendlyprojects): Projects tailored for newcomers to make their first contribution to open source. 🌱
+- [First Contribution Issues](https://github.com/firstcontributionissues): Start your journey into open source by contributing to issues tagged 'first-contribution'. 🚀
+- [First Issue](https://github.com/firstissue): Find your first issue to work on from this collection of beginner-friendly repositories. 🚧
+- [Contribute to Open Source](https://github.com/contribute-to-open-source): Contribute to beginner-friendly open source projects and make a difference. 🎯
+- [Good First Issues](https://github.com/good-first-issues): A collection of repositories with good first issues for beginners to contribute to. 🎉
+- [First Timers Only](https://github.com/firsttimersonly): Projects welcoming new contributors with issues tagged 'first-timers-only'. 👶
+- [Up For Grabs](https://github.com/up-for-grabs): Explore projects that are up for grabs and ready for contributions from newcomers. 🤝
+- [First Pull Request](https://github.com/firstpullrequest): Make your first pull request to open source projects and become part of the community. 🚀
+- [Good First Issues Club](https://github.com/good-first-issues-club): Join the club and tackle good first issues to kickstart your open source journey. 👥
+- [First Contributions](https://github.com/firstcontributions): Learn how to contribute to open source projects with guidance from this repository. 🌟
+- [Hello Open Source](https://github.com/helloopensource): Your first step into the open source world starts here with beginner-friendly projects. 👋
+- [Beginner Open Source Projects](https://github.com/beginneropensourceprojects): A collection of beginner-friendly open source projects across different technologies. 💻
+- [First PR](https://github.com/firstpr): Find your first pull request opportunity in this repository and make your mark in the open source community. 🎉
+- [Hacktoberfest](https://github.com/hacktoberfest): Join the celebration of open source and make your first contribution during Hacktoberfest. 🎃
+- [Good First Issue](https://github.com/goodfirstissue): Find good first issues to work on from various open source projects. 🎯
+- [Starter Tasks](https://github.com/startertasks): Find starter tasks here to kickstart your journey into open source. 💡
+- [Your First PR](https://github.com/yourfirstpr): A collection of repositories with issues suitable for first-time contributors. 🚪
+- [Beginner Issues](https://github.com/beginnerissues): Discover beginner-friendly issues to work on and kickstart your open source journey. 🚀
+- [First Timers Only](https://github.com/firsttimersonly): Projects that welcome new contributors with open arms and issues tagged 'first-timers-only'. 👶
+- [Newcomers Guide](https://github.com/newcomersguide): Your guide to navigating the open source world as a newcomer with beginner-friendly projects. 🗺️
+- [First Issue](https://github.com/firstissue): Dive into the open source world by solving your first issue from this repository. 🌊
+- [Good First Issues Collection](https://github.com/goodfirstissuescollection): A collection of repositories featuring good first issues for newcomers to contribute to. 🎁
+- [First Timers Hub](https://github.com/firsttimershub): A hub for first-time contributors to find projects with beginner-friendly issues. 🏰
+- [First PR Club](https://github.com/firstprclub): Join the club and make your first pull request to open source projects. 🏓
+- [New Contributor Help Wanted](https://github.com/newcontributorhelpwanted): New contributors are wanted here! Explore issues suitable for beginners and make your mark. ✨
+- [Starter Projects](https://github.com/starterprojects): Jump-start your open source journey with these starter projects designed for beginners. 🚀
+- [First PR Contributions](https://github.com/firstprcontributions): Start your open source journey by making your first pull request to these beginner-friendly projects. 🌟
+- [Hello World Programs](https://github.com/helloworldprogram): Contribute your 'Hello, World!' program to this repository and become part of the open source community. 👋
+- [Starter Issues](https://github.com/starterissues): Discover starter issues from various open source projects and begin your journey into open source development. 🚀
+- [First Contributions](https://github.com/firstcontributions): Contribute to open source projects for the first time with guidance and support from this repository. 🌟
+- [Good First Issue Tracker](https://github.com/goodfirstissuetracker): Keep track of good first issues from multiple open source projects and start contributing. 📋
+- [Newbie-Friendly Projects](https://github.com/newbiefriendlyprojects): Projects tailored for newcomers to make their first contribution to open source. 🌱
+- [First Contribution Issues](https://github.com/firstcontributionissues): Start your journey into open source by contributing to issues tagged 'first-contribution'. 🚀
+- [First Issue](https://github.com/firstissue): Find your first issue to work on from this collection of beginner-friendly repositories. 🚧
+- [Contribute to Open Source](https://github.com/contribute-to-open-source): Contribute to beginner-friendly open source projects and make a difference. 🎯
+- [Good First Issues](https://github.com/good-first-issues): A collection of repositories with good first issues for beginners to contribute to. 🎉
+- [First Timers Only](https://github.com/firsttimersonly): Projects welcoming new contributors with issues tagged 'first-timers-only'. 👶
+- [Up For Grabs](https://github.com/up-for-grabs): Explore projects that are up for grabs and ready for contributions from newcomers. 🤝
+- [First Pull Request](https://github.com/firstpullrequest): Make your first pull request to open source projects and become part of the community. 🚀
+- [Good First Issues Club](https://github.com/good-first-issues-club): Join the club and tackle good first issues to kickstart your open source journey. 👥
+- [First Contributions](https://github.com/firstcontributions): Learn how to contribute to open source projects with guidance from this repository. 🌟
+- [Hello Open Source](https://github.com/helloopensource): Your first step into the open source world starts here with beginner-friendly projects. 👋
+- [Beginner Open Source Projects](https://github.com/beginneropensourceprojects): A collection of beginner-friendly open source projects across different technologies. 💻
+- [First PR](https://github.com/firstpr): Find your first pull request opportunity in this repository and make your mark in the open source community. 🎉
+- [Hacktoberfest](https://github.com/hacktoberfest): Join the celebration of open source and make your first contribution during Hacktoberfest. 🎃
+- [Good First Issue](https://github.com/goodfirstissue): Find good first issues to work on from various open source projects. 🎯
+- [Starter Tasks](https://github.com/startertasks): Find starter tasks here to kickstart your journey into open source. 💡
+- [Your First PR](https://github.com/yourfirstpr): A collection of repositories with issues suitable for first-time contributors. 🚪
