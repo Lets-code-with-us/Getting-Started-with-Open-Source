@@ -173,391 +173,175 @@ Let's cover each.
 
 &nbsp;
 
-### GitHub:
+### Git
 
-Imagine GitHub as a big, magical toy box where people keep their favorite toys (code). Everyone can see the toys and even play with them!
+Git is a version control system. It helps you keep track of your code's changes and manage code across teams.
 
-So, let's say you have a cool toy (code) like a robot. You want to make it even better so you put it in the GitHub toy box. Now, your friends can see your robot, give suggestions, and even add new cool things!
+You should know how to:
+- Create a repository
+- Add files to a repository
+- Commit changes
+- Create branches
+- Merge branches
 
-GitHub helps friends (developers) work together on toys (code) and make them more awesome. It's like a playground where everyone shares their toys, helps each other, and has a lot of fun!
+### GitHub
 
-You can learn more about [GitHub](https://github.com/) at the official website. 
+GitHub is a platform built on top of Git. It's where people share and collaborate on code. It’s like social media for coders.
 
-![100 million users of GitHub as a banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sx0xsz4fb7fjp0gmjhdk.png)
+You should know how to:
+- Fork a repository
+- Clone a repository
+- Create pull requests (PRs)
+- Review pull requests
+- Merge pull requests
 
-- You can learn about it through YouTube tutorials or the [Google Course](https://www.coursera.org/learn/introduction-git-github), which is where I learned it around 3 years ago.
-&nbsp;
+### Markdown
 
-### Git:
+Markdown is a lightweight markup language with plain-text formatting syntax. It’s what you use to style your writing on GitHub.
 
-Imagine Git as a magical backpack for your computer. When you make a drawing on your computer, Git helps you save different versions of your drawing. So, if you want to go back to the way your drawing looked yesterday, `Git` helps you with that.
-
-It's like having a time machine for your computer drawings!
-Lots of other concepts are involved but this is what people mean when they say Git is a "Version Control System".
-
-I learned Git from a popular [free Udacity course](https://www.udacity.com/course/version-control-with-git--ud123).
-
-I can assure you this is one of the best short courses that doesn't make you feel like an idiot and explains everything in depth.
-
-![udacity git course](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2z4bk79qcco6ktjm4nn.png)
-
-&nbsp;
-
-### Markdown:
-
-Markdown is an easy-to-read, easy-to-write language for formatting plain text. 
-
-It is used while **communicating everything** on GitHub. You must know the basics of it.
-
-It's simple if you have used HTML before.
-
-This [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) covers everything. I still use it to date.
-
-This is another [markdown cheatsheet](https://cheatography.com/simon-fermor/cheat-sheets/markdown/) which you can refer to by cheatography.
-
-You can use [Dillinger](https://dillinger.io/) as an online editor that you can use to see the preview of what the final output looks like.
+You should know how to:
+- Format text
+- Create headers
+- Make lists
+- Add links
+- Insert images
 
 ---
 
-## 6. Conventional Commits. 
+## 6. Conventional Commits 📝
 
-If you know a bit about Git then you know.
-Commit messages are crucial and can distinguish beginners from experienced developers. These conventions make commits self-explanatory regarding their type. 
+Conventional commits provide a standardized format for commit messages, enhancing clarity and communication within projects. They follow a simple structure of `<type>(optional scope): <description>`.
 
-You should follow these [conventions](https://www.conventionalcommits.org/en/v1.0.0/) every time.
+For example:
+- `feat: add new feature`
+- `fix: resolve issue with login`
 
-![conventional commits](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5fs350p0myp5lvlzg2k.png)
-
-One handy rule that you must be aware of; we only use the present tense while writing commit messages. `Added ..` is an incorrect commit message.
-
-A lot is involved in technical terms, but you can just use it for the sake of conventions.
-
-![why to use conventional commits](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jtmh8uufkvogunp5cknc.png)
+Using conventional commits helps maintain a clean and structured commit history, making it easier to understand changes and track issues.
 
 ---
 
-## 7. Standard Guidelines of Good Open Source Project
+## 7. Basic Flow of Open Source Contribution 🔄
 
-There is no correct answer to this, but every good open source project must have clear guidelines to help you on `HOW` you can contribute to their project (`contributing.md`) and a few [other requirements](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/about-community-profiles-for-public-repositories). 
+The contribution flow typically involves the following steps:
 
-![community standards](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k9yvhyk2wls1mjnzak0.png)
+1. **Read Contribution Guidelines**: Start by reading the project's contributing guidelines to understand how you can contribute effectively.
 
-&nbsp;
+2. **Find or Create Issues**: Look for existing issues in the project's issue tracker or create new ones if you find something that needs attention.
 
-Let's cover each in depth.
+3. **Fork the Repository**: Fork the project's repository to create your copy where you can make changes without affecting the original project.
 
-### Contributing guidelines (Contributing.md)
+4. **Make Changes in a Branch**: Create a new branch for your changes and make the necessary modifications to address the issue you're working on.
 
-This is undoubtedly the most important aspect if you want others to contribute to your project.
+5. **Submit a Pull Request**: Once you're done with your changes, submit a pull request to propose your modifications to the project's maintainers.
 
-Contributing guidelines can vary from project to project, and it must answer these questions unless it's defined in Readme:
+6. **Respond to Feedback**: Be prepared to receive feedback on your pull request and make any necessary changes based on the feedback provided by the project's maintainers.
 
-- How to get started with the project.
-   - Clear instructions on all the options to set the project locally
-- Clear step-by-step instructions on what they can do with the project and where they can contribute
-- It can also include code quality standards and testing
-- It is important to note that not every project has `contributing.md` depending on how they want the contributions.
-
-The best contributing guidelines I've come across are from [Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md). I started my open source journey with Simple Icons :)
-
-Some other examples that you can look at [LinksHub](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md) which I've personally contributed to and improved over time along with other maintainers.
-
-&nbsp;
-
-### README
-
-A `README.md` file, written in markdown, is the most important document that provides information about a project, including its purpose, installation instructions, tech stack, and usage examples. 
-
-Readme can vary from project to project, but a good Readme always attracts more contributors.
-
-For instance, you can see Readme examples of [Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/README.md), [Handle Multiple Issues](https://github.com/Anmol-Baranwal/handle-multiple-issues/blob/main/README.md), [Full-Stack MongoDB Project](https://github.com/Anmol-Baranwal/MongoDB-Query-Fetcher), and [DailyDotDev](https://github.com/dailydotdev/daily/blob/master/README.md)
-
-&nbsp;
-
-### Code of Conduct
-
-The code of conduct sets ground rules for participants’ behavior and helps to facilitate a friendly, welcoming environment. 
-
-The name of the file should be `CODE_OF_CONDUCT.md`, and you can see an example [here](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects?tab=coc-ov-file#readme).
-
-You can also see [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).
-
-&nbsp;
-
-### Description
-
-A project description increases visibility and influences algorithms to showcase your project in GitHub's `Explore more repositories`. This is what people will see when they see your project.
-
-![description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yfbstrhht7dkxlf5rjem.png)
-
-&nbsp;
-
-### License
-
-By definition, every open source project must have an open source license. If a project doesn't have a license, it is not open source.
-
-Open Source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, they need to explicitly give these permissions with a license.
-
-You can refer to the [official guide](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project) on which license you should choose for your project.
-
-Find all the licenses [here](https://choosealicense.com/).
-
-&nbsp;
-
-### Security Policy
-
-Read on official docs about [Adding a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
-
-GitHub repositories involve lots of packages and dependencies, which can lead to security vulnerabilities.
-
-This will be helpful because whenever someone creates an issue in your repository, they will see a link to the security policy associated with your project.
-
-![security policy while they create an issue](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ulu2ijw0pio1lbu6ckj3.png)
-
-I like and recommend the [security policy](https://github.com/novuhq/novu/security) of Novu.
-
-&nbsp;
-
-### Issues & Issue Templates
-
-Issues are used to track bugs, feature requests, and other tasks related to a project.
-They can be opened by anyone, and everyone uses it to track and prioritize work that needs to be done.
-Issues can be assigned to specific team members, labeled with tags, and can have discussions related to them.
-
-Read on [how to create an issue in GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
-
-Generally, the issue templates are in markdown format.
-
-![markdown issue templates](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vyfc2nud69uk8utp7yhs.png)
-
-But the new ones (currently in beta) are like issue forms that improve consistency, and people can contribute easily. How?
-
-Issue forms can be more user-friendly than Markdown templates, especially for contributors who may not be familiar with Markdown syntax.
-
-With issue forms, you can ensure that all issues are created in a consistent format, with the same fields and information requested every time. This makes it easier for maintainers to review and respond to issues quickly.
-
-![issue forms](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4vkw6eh4o80wpn2oqbrp.png)
-
-You can create these issue templates that contributors will see when they try to create a new issue.
-
-![issue forms](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gzojl4uexep82cf13zih.png)
-
-You can create a file in GitHub: `.github/ISSUE_TEMPLATE/file_name.yml`
-
-See this [list](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/tree/main/.github/ISSUE_TEMPLATE) and how it [looks](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/issues/new/choose).
-
-You can find a list of issue forms in this [gist](https://gist.github.com/Anmol-Baranwal/cccf913ada8f9b0f0d178fdcf0a2d0f5) that I created a while back.
-
-&nbsp;
-
-### Pull Requests & Pull Request Templates
-
-Read on [how to create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
-Read official docs on [Creating a pull request template for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
-
-What it does is, that whenever someone creates a pull request, they will receive a predefined template with a sample format. This helps them provide clear information about the pull request.
-
-For instance, see this [pull_request_template.md](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/.github/pull_request_template.md?plain=1) along with [it's preview](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects/blob/main/.github/pull_request_template.md)
-
-You can create multiple pull request templates to offer options for required information in different types of pull requests. However, many people may not be aware of this feature, and it can be confusing for first-time contributors. As far as I know, there isn't an option for similar templates in issue forms, and only markdown is supported.
-
-You can create offer options of what information is required in which type of pull request. 
-However, many people may not be aware of this feature, and it can be confusing for first-time contributors. 
-As far as I know, there isn't an option for similar templates in issue forms, and only markdown is supported.
-
-&nbsp;
-
-In some repositories, you can find a Wiki that serves as an extra guide to the project. It depends on the project, but this is what a [good wiki](https://github.com/adam-p/markdown-here/wiki) looks like.
-
-Did you know you can add a social image to your repository?
-You can find the option in settings.
-
-![social preview](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1m54lpqa197v08pegrcw.png)
+7. **Merge Changes**: Once your pull request is approved, the project's maintainers will merge your changes into the main branch, and your contributions will become part of the project.
 
 ---
 
-## 8. Basic Flow of Open Source Contribution.
+## 8. Standard Guidelines for Open Source Projects 📋
 
-If you prefer reading official docs, read it [here](https://docs.github.com/en/get-started/using-github/github-flow#following-github-flow).
+Good open source projects should have the following components:
 
-It's okay if you don't want to, I will explain!
+- **README**: A clear and informative README file that explains what the project does, how to use it, and how to contribute to it.
 
-Every good open source project follows a basic flow, and you will be treated as a spammy contributor most of the time if you don't follow it.
+- **Contributing Guidelines**: Guidelines that outline how contributors can contribute to the project, including instructions for setting up the development environment, coding standards, and submitting pull requests.
 
-a. The first step is to read the contributing guidelines that you can find in `Contributing.md` or sometimes `Readme.md`.
+- **Code of Conduct**: A code of conduct that sets the tone for respectful and inclusive communication and behavior within the project's community.
 
-b. b. Now, you should either create a new issue or find open ones that aren't assigned to anyone. You can learn [how to create an issue on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
+- **Description**: A brief description of the project, its purpose, and its goals.
 
-![no assignee to the issue](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/29rbzk0epu5wcrn7lfh2.png)
+- **License**: A license that specifies the terms under which the project is distributed and grants permissions for usage, modification, and sharing.
 
-You can simply comment to see if the issue is open for work.
-However, make sure you can solve that issue before requesting to get assigned.
+- **Security Policy**: A security policy that outlines how security vulnerabilities and issues should be reported and addressed.
 
-c. Once you're assigned, you can make a pull request with the changes in a different branch, and [correctly link the issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) so that the linked issue is closed when the Pull Request is merged. Read on [how to create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+- **Issue Templates**: Templates for creating new issues that help standardize the information provided and make it easier for maintainers to address them.
 
-d. You should address the review changes (Read more in the 11th section) timely, and you can ask the person who suggested the changes to help you if you're facing big problems.
-By the way, you need to push the changes in the same branch from which the PR is created, it will automatically be shown in the Pull Request.
-
-> What is a Spam PR? Avoid it at all costs!
-
-These conditions are considered spam:
-
-- Making a Pull Request without getting assigned.
-- Making a Pull Request to an issue assigned to someone else.
-- Anything that doesn't follow basic [open source etiquette](https://developer.mozilla.org/en-US/docs/MDN/Community/Open_source_etiquette).
-
-It's okay if you make those mistakes; some maintainers may not have time to explain everything to everyone. Just make sure to never do it again.
-
-Projects that, for example, focus on Data Structures and Algorithms (DSA) or JavaScript repositories that don't follow these etiquettes are actually making the situation worse. Creating spammy Pull Requests is not acceptable.
+- **Pull Request Templates**: Templates for creating new pull requests that guide contributors on the information to include and the process to follow when submitting changes.
 
 ---
 
-## 9. How to Find Good Open Source Projects.
+## 9. Finding Good Open Source Projects 🔍
 
-This is undoubtedly one of the biggest questions that people ask.
-And I always tell you that you should choose a project that excites you rather than just following the tech stack.
+Finding good open source projects to contribute to can be challenging, but there are several strategies you can use:
 
-I've covered everything here on [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje).
+- **Explore GitHub Explore**: GitHub Explore is a great place to discover trending repositories, curated collections, and recommended projects based on your interests.
 
-It has received over 20k views, and I wrote it after careful consideration and in response to numerous requests.
+- **Search Repositories by Topic**: Use GitHub's search functionality to find repositories related to specific topics or technologies you're interested in.
 
-However, to get you a list of helpful repositories. You can find it [20 Open Source projects you shouldn't miss in 2024](https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4). These are all close to me.
+- **Join Community Platforms**: Join community platforms like Reddit, Discord, or Slack where developers discuss open source projects and share opportunities for contribution.
 
-Check [300+ Open source projects](https://github.com/Anmol-Baranwal?tab=stars) in different categories. Updated daily ✅
-
-I hope this can help you find the project you were searching for! See you in open source.
+- **Check Out Curated Lists**: Explore curated lists of open source projects compiled by individuals and organizations to find projects across different categories and technologies.
 
 ---
 
-## 10. Ideal ways to contribute to Open Source.
+## 10. Ideal Ways to Contribute to Open Source 💡
 
-As I said, there is no roadmap in open source.
-It depends on person to person and how they approach it.
+When it comes to contributing to open source, there are several ways you can get involved:
 
-But I'm an open-source maintainer, and I can tell you about how I prefer contributors to contribute to my project.
+- **Code Contributions**: Contribute code to fix bugs, implement new features, or improve existing functionality in open source projects.
 
-Three simple steps, focusing on long-term commitments:
+- **Documentation**: Improve project documentation by fixing errors, clarifying instructions, and adding examples to help users understand how to use the project.
 
-a. Contributors should read the guidelines and understand the basic workflow for contributors. You should avoid asking questions without researching on your own, as it can give the wrong impression.
+- **Testing and Bug Reporting**: Test the project and report any bugs or issues you encounter, helping maintainers identify and address problems.
 
-b. Join the community, observe ongoing activities, and identify areas where you can comfortably contribute. The next step is to engage with the maintainers about how they want the project to grow. What their vision is, and see if you can help. Solidify ideas and suggestions through communication.
+- **Community Support**: Provide support to other users and contributors by answering questions, troubleshooting issues, and sharing your expertise with the community.
 
-c. Create an issue, write your plan clearly (no copy-paste from ChatGPT), and outline what you intend to do. Once assigned, submit a pull request (PR), and address requested changes timely. Keep the PR active; if it becomes stale, make sure to tell them the reason. 
-
-Learn more about [effective communication](https://opensource.guide/how-to-contribute/#communicating-effectively) in open source projects.
-
-I'm not too strict, but handling a large project in a big organization can be challenging. Respecting everyone's time is crucial. Keep contributing, and gradually you will become a significant part of the project.
+- **Translation and Localization**: Translate project documentation, user interfaces, and other content into different languages to make the project more accessible to a global audience.
 
 ---
 
-## 11. How to suggest/address code request changes in Pull Request.
+## 11. Addressing Code Request Changes in Pull Requests 🛠️
 
-I've seen some contributors leaving their pending work as soon as they requested changes in their Pull Request. Trust me, if you make this a habit, maintainers will be less likely to assign you issues.
+When you submit a pull request, be prepared to receive feedback and requests for changes from the project's maintainers. Here are some tips for addressing code review comments:
 
-Anyway, there are many ways you can be requested for the changes.
-For instance, see [PR #1152 in LinksHub](https://github.com/rupali-codes/LinksHub/pull/1152), [PR #864 in Dailydotdev](https://github.com/dailydotdev/daily/pull/864).
+- **Be Responsive**: Respond promptly to code review comments and requests for changes to demonstrate your commitment to collaborating with the project's maintainers.
 
-You can clearly see the changes requested along with the detailed review.
+- **Be Open to Feedback**: Be open-minded and receptive to feedback, even if it means making significant changes to your code or approach.
 
-![code review](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugeqptx41vudwqwsvl52.png)
+- **Be Professional**: Maintain a professional and respectful tone in your communications with the project's maintainers, even if you disagree with their feedback or suggestions.
 
-You can also directly commit if they have suggested the changes which is a neat little feature in GitHub. Learn about giving effective [code feedback reviews](https://www.freecodecamp.org/news/code-review-tips/) for maintainers & contributors in detail on freecodecamp.
-
----
-
-## 12. Legal Side of Open Source.
-
-Open Source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need to explicitly give these permissions with a license. 
-
-These rules also apply when someone contributes to your project. Without a license or other agreement in place, any contributions are exclusively owned by their authors. That means nobody – not even you – can use, copy, distribute, or modify their contributions.
-
-> Making your GitHub project public is not the same as licensing your project.
-
-For others to use, distribute, modify, or contribute back to your project, you must include an open source license.
-For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public unless you explicitly give them the right to do so.
-
-You can refer to the [official guide](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project) on which license you should choose for your project. 
-
-I mostly use [MIT License](https://choosealicense.com/licenses/mit/) since it's easy to understand, and you can use it if you don't know much about licenses.
-
-### Does my project need an additional contributor agreement?
-
-You can read more about this [here](https://opensource.guide/legal/#does-my-project-need-an-additional-contributor-agreement). 
-
-You can use the [CLA assistant](https://github.com/cla-assistant/cla-assistant), which is super simple.
-
-For instance, you can check my [Pull Request 864](https://github.com/dailydotdev/daily/pull/864) in dailydotdev.
-
-![pull request in dailydotdev](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mg61w52841602sas0r5v.png)
-
-You have to sign up using GitHub, and it's perfectly safe.
-
-![cla assistant](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vj7hlv6r2z2g5thldppi.png)
-
-Then it's all good to go.
+- **Be Persistent**: Don't get discouraged if your pull request isn't accepted immediately. Keep working on improvements and addressing feedback until your contributions meet the project's standards and requirements.
 
 ---
 
-## 13. Extra Resources.
+## 12. Legal Side of Open Source ⚖️
 
-These are some of the resources that I recommend giving a read.
-I've found these in my open source journey, and they offer a decent viewpoint.
+When you contribute to open source projects, it's essential to consider the legal implications and ensure that your contributions comply with the project's licensing and copyright requirements. Here are some key legal considerations:
 
-- [Official Guide](https://opensource.guide/) - An official guide that covers everything such as:
+- **Open Source Licenses**: Make sure you understand the project's open source license and comply with its terms when contributing code or other content to the project.
 
-   - How to Contribute to Open Source
-   - Starting an Open Source Project
-   - Best practices for maintainers
-   - Finding users for your project
-   - Building Welcoming Communities, and many more ...
+- **Contributor Agreements**: Some projects require contributors to sign contributor agreements, which grant the project certain rights to use and distribute their contributions.
 
-- [Open Source with Pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - It contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub. It is a comprehensive guide with 800+ Stars on GitHub.
+- **Copyright and Licensing**: Be mindful of copyright issues and licensing restrictions when incorporating third-party code or content into your contributions.
 
-- [How to Contribute to Open Source Projects - Freecodecamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) - This guide outlines the roles in open source projects, the essential elements, and everything you need to start your journey with Open Source. 
+- **Patents**: Some projects have patent clauses in their licenses that grant contributors certain patent rights related to their contributions.
 
-- [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events) - Collection of Open Source Events and Hackathon's on a monthly basis. 
-
-- [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-
-- [GitHub Profile Generator](https://gprm.itsvg.in) - create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools are included, all for free!
-
-- [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines) - official guidelines to build a strong, open-minded, welcoming community that supports collaboration in a proper digital space.
+- **Legal Advice**: If you have any doubts or concerns about the legal aspects of contributing to an open source project, consider seeking legal advice from a qualified attorney.
 
 ---
 
-![Becoming Top 1% in open source isn't the goal, impacting 1M lives is](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xs5amyzvwd06y8b63xy.png)
+## 13. Extra Resources 📚
 
-&nbsp;
+Here are some additional resources to help you on your open source journey:
 
-Trust me.
-Now, you've got everything you need to start your open source journey.
+- **Official Guides and Tutorials**: Many open source projects provide official guides, tutorials, and documentation to help contributors get started and learn more about the project.
 
-It took me a very, very long time to write this! 
-A very very long time.
+- **Events and Workshops**: Look for events, workshops, and conferences focused on open source software development where you can learn new skills, network with other developers, and contribute to projects.
 
-There are more things to cover, like co-authored commits or branch rules, but they aren't necessary for beginners. A story for another time!
+- **GitHub Tools and Features**: Explore GitHub's tools and features for collaboration, code review, project management, and more to streamline your contributions to open source projects.
 
-Whenever someone asks how they can start their journey with open source, share this post, and voila! 
-I hope people can refer back to this.
+- **Community Forums and Discussion Boards**: Join community forums, discussion boards, and social media groups where you can connect with other developers, ask questions, and share your experiences with open source software development.
 
-> I'll update it every 3 months if I discover anything good enough.
+- **Open Source Organizations**: Consider joining open source organizations and foundations that support and promote the development of open source software and provide resources and support for contributors.
 
-I'm not a big fan of social media, but I occasionally share about open source on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/). That's where I used those couple of images :)
+---
 
-Paid content is often the best (which I'm not a fan of), but I believe some things should remain free so everyone can learn without these money constraints. 
-However, I appreciate your support. If you'd like, you can [sponsor me on GitHub](https://github.com/sponsors/Anmol-Baranwal). I hope I'm not forcing you at all. I'm not that kind of guy. LOL!
+Congratulations on reaching the end of this guide! 🎉
 
-> If you are keen on sponsoring this post, shoot me a message at anmolbaranwal119@gmail.com or hit me up on Twitter! 🚀
+I hope you found it helpful and informative, and I wish you all the best on your journey into the world of open source software development.
 
-If you enjoyed this guide, please support me by following me on my GitHub & Twitter.
+Remember, the most important thing is to have fun, learn new things, and make a positive impact on the world through your contributions to open source projects.
 
-- [GitHub](https://github.com/Anmol-Baranwal) - Become Top 1%!
-- [Twitter](https://twitter.com/Anmol_Codes)
-- [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/)
-
-{% embed https://dev.to/anmolbaranwal %}
-
-Write more, inspire more.
-
-![Ending GIF waving goodbye](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ylsck6b9c7ei6makpqd.gif)
+Happy coding! 👩‍💻👨‍💻
